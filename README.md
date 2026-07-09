@@ -1,0 +1,1 @@
+# Azure-Fabric-Data-Engineer-CERT-DP-700-PRACTICE-QNS
